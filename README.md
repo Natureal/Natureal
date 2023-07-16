@@ -8,7 +8,7 @@ My research interests includes Distributed Systems, Machine Learning Systems, Cl
 
 ## Publications
 
-##### Understanding Operational CDN Live Streaming: A Measurement Study on Performance, Costs and Enhancements  
+#### Understanding Operational CDN Live Streaming: A Measurement Study on Performance, Costs and Enhancements  
 Danfu Yuan, Weizhan Zhang, Haiyu Huang, Kai Xiao, Yunfei Ma, Xuan Zeng, Ennan Zhai, Hongfei Yan, Jinghui Zhong, **Peng Chen**, Chunli Zong, Jingya Zhang, Bin Xie, Yubing Qiu, Songlin Li Affiliation: Xi'an Jiaotong University, Alibaba Group
 **Preparing for submission**
 
