@@ -8,17 +8,17 @@ My research interests includes Distributed Systems, Machine Learning Systems, Cl
 
 ## Publications
 
-#### Understanding Operational CDN Live Streaming: A Measurement Study on Performance, Costs and Enhancements  
+Understanding Operational CDN Live Streaming: A Measurement Study on Performance, Costs and Enhancements  
 Danfu Yuan, Weizhan Zhang, Haiyu Huang, Kai Xiao, Yunfei Ma, Xuan Zeng, Ennan Zhai, Hongfei Yan, Jinghui Zhong, **Peng Chen**, Chunli Zong, Jingya Zhang, Bin Xie, Yubing Qiu, Songlin Li Affiliation: Xi'an Jiaotong University, Alibaba Group  
 **Preparing for submission**
 
-#### [Conflict or cooperation?: predicting future tendency of international relations](https://dl.acm.org/doi/pdf/10.1145/3341105.3373929)  
+[Conflict or cooperation?: predicting future tendency of international relations](https://dl.acm.org/doi/pdf/10.1145/3341105.3373929)   
 **Peng Chen**, Adam Jatowt, Masatoshi Yoshikawa  Affiliation: Kyoto University
 Full Paper, SAC 2020 (The 35th ACM/SIGAPP Symposium On Applied Computing) (CORE B)
 [Github](https://github.com/Natureal/Conflict_Or_Cooperation)
 
 
-#### Towards future event prediction using Graph-LSTM  
+Towards future event prediction using Graph-LSTM  
 **Peng Chen**, Adam Jatowt, Masatoshi Yoshikawa  Affiliation: Kyoto University
 Poster, DEIM 2019 (The 17th Annual Meeting of The Database Society of Japan)
 
@@ -30,12 +30,9 @@ I currently hold the position of Senior R\&D Engineer. Our team is responsible f
 
 ML-System Intern: Hitachi Central Laboratory, Department of Media Intelligence, Tokyo, Aug. -- Nov. 2018  
 Topic: Distributed ML system development with high concurrency. Advisor: Dr. Bin Tong (Now Alibaba Senior Algorithm Expert)  
-I explored and implemented a highly concurrent training and prediction system for two different image classification machine learning algorithm models called Few-Shot learning based model and XGBoost. The system has two key capabilities:
-
-Distributed training with multiple GPUs/nodes.
-
-Inference with scalability.
-
+I explored and implemented a highly concurrent training and prediction system for two different image classification machine learning algorithm models called Few-Shot learning based model and XGBoost. The system has two key capabilities:  
+- Distributed training with multiple GPUs/nodes.  
+- Inference with scalability.  
 In particular, we built a Kubernetes-based physical cluster, and built a Spark-based logical cluster on top of it, then encapsulated the algorithm models into Docker for deployment. Finally, we implemented an experimental distributed image classification system and simulated real-time queries using streaming data sources for pressure testing to validate the high concurrency performance of image classification. [Summary presentation of the internship](https://github.com/Natureal/Distribution_intern/tree/master)
 
 
