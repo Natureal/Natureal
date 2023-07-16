@@ -2,7 +2,7 @@
 
 ## About
 
-I am a senior R&D engineer in the Distributed Streaming Media Architecture team at Alibaba Cloud. I received my master degree from Kyoto University, supervised by Prof. [Adam Jatowt](https://adammo12.github.io/adamjatowt/). During my graduate studies, I was fortunate to explore and implement a distributed machine learning systems under the supervision of Dr. [Bin Tong](https://ieeexplore.ieee.org/author/37532385600). Prior to that, I obtained my bachelor's degree at Soochow University, where I spent about three wonderful years training for *ACM-ICPC* algorithm competition.
+I am a senior R&D engineer in the Distributed Streaming Media Architecture team at Alibaba Cloud. I received my master degree from Kyoto University in 2020, supervised by Prof. [Adam Jatowt](https://adammo12.github.io/adamjatowt/). During my graduate studies, I was fortunate to explore and implement a distributed machine learning systems under the supervision of Dr. [Bin Tong](https://ieeexplore.ieee.org/author/37532385600) at Hitachi Central Research Lab (Tokyo). Prior to that, I obtained my bachelor's degree at Soochow University in 2017, where I spent about three wonderful years training for *ACM-ICPC* algorithm competition.
 
 My research interests includes Distributed Systems, Machine Learning Systems, Cloud Computing, Algorithm and Advanced Data Structures.
 
