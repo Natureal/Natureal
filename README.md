@@ -23,16 +23,17 @@ Towards future event prediction using Graph-LSTM
 Poster, DEIM 2019 (The 17th Annual Meeting of The Database Society of Japan)
 
 ## Experience
-Full-time Job: Alibaba Cloud, Alibaba Group, Hangzhou, Apr. 2020 -- Present  
+#### Full-time Job: Alibaba Cloud, Alibaba Group, Hangzhou, Apr. 2020 -- Present  
 Team: Distributed Streaming Media Architecture, Department of Video Cloud Technology  
 I currently hold the position of Senior R\&D Engineer. Our team is responsible for building and maintaining  [GRTN(Global Real-time Transport Network)](https://mp.weixin.qq.com/s/RNLI1nAbXcXOx-x2rVTLWQ), a large distributed streaming server for Alibab Group's live video streaming and video conferencing based on large-scale CDN network and edge computing nodes, which carries Taobao live streaming within the group, and also serves Douyin/TikTok, Kuaishou, CCTV live streaming businesses externally. I am responsible for the development and upgrade of the GRTN base within the team, while participating in the pre-research and implementation of next-generation low-latency live streaming and video conferencing technology solutions, as well as co-creating academic papers with research interns in the group.
 
 
-ML-System Intern: Hitachi Central Laboratory, Department of Media Intelligence, Tokyo, Aug. -- Nov. 2018  
+#### ML-System Intern: Hitachi Central Laboratory, Department of Media Intelligence, Tokyo, Aug. -- Nov. 2018  
 Topic: Distributed ML system development with high concurrency. Advisor: Dr. Bin Tong (Now Alibaba Senior Algorithm Expert)  
 I explored and implemented a highly concurrent training and prediction system for two different image classification machine learning algorithm models called Few-Shot learning based model and XGBoost. The system has two key capabilities:  
 - Distributed training with multiple GPUs/nodes.  
 - Inference with scalability.  
+
 In particular, we built a Kubernetes-based physical cluster, and built a Spark-based logical cluster on top of it, then encapsulated the algorithm models into Docker for deployment. Finally, we implemented an experimental distributed image classification system and simulated real-time queries using streaming data sources for pressure testing to validate the high concurrency performance of image classification. [Summary presentation of the internship](https://github.com/Natureal/Distribution_intern/tree/master)
 
 
