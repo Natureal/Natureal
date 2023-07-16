@@ -27,6 +27,7 @@ Poster, DEIM 2019 (The 17th Annual Meeting of The Database Society of Japan)
 Team: Distributed Streaming Media Architecture, Department of Video Cloud Technology  
 I currently hold the position of Senior R\&D Engineer. Our team is responsible for building and maintaining  [GRTN(Global Real-time Transport Network)](https://mp.weixin.qq.com/s/RNLI1nAbXcXOx-x2rVTLWQ), a large distributed streaming server for Alibab Group's live video streaming and video conferencing based on large-scale CDN network and edge computing nodes, which carries Taobao live streaming within the group, and also serves Douyin/TikTok, Kuaishou, CCTV live streaming businesses externally. I am responsible for the development and upgrade of the GRTN base within the team, while participating in the pre-research and implementation of next-generation low-latency live streaming and video conferencing technology solutions, as well as co-creating academic papers with research interns in the group.
 
+---
 
 #### ML-System Intern: Hitachi Central Laboratory, Department of Media Intelligence, Tokyo, Aug. -- Nov. 2018  
 Topic: Distributed ML system development with high concurrency. Advisor: Dr. Bin Tong (Now Alibaba Senior Algorithm Expert)  
