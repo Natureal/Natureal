@@ -1,8 +1,8 @@
 ### Hi, I am Peng Chen. 👋 
 
-## About
+### Bio
 
-I am a senior R&D engineer in the Distributed Streaming Media Architecture team at Alibaba Cloud. 
+I am a senior R&D engineer in the Distributed Streaming Media Architecture team at Alibaba Cloud. Currently working on papers with research interns in my team.
 
 My research interests include Distributed Systems, Machine Learning Systems, Cloud Computing, Algorithms \& Advanced Data Structures.
 
